@@ -24,7 +24,7 @@ function MyProfile() {
         <ul className={styles.list}>
           {rockets.filter((rocket) => rocket.reserved === true).map((rocket) => (
             <li className={styles.Containerli} key={rocket.id}>
-              <p className={styles.itemsTitle}>{rocket.name}</p>
+              <p className={styles.itemsTitle}>{rocket.rocket_name}</p>
             </li>
           ))}
         </ul>
