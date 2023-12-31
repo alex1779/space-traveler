@@ -12,7 +12,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo  ... coming soon](#-live-demo---coming-soon)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [Available Scripts](#available-scripts)
     - [`npm start`](#npm-start)
@@ -68,7 +68,9 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"> ... coming soon</a>
+## 🚀 Live Demo <a name="live-demo"> </a>
+
+[Live demo](https://space-traveler-hp3t.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
