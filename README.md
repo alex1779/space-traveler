@@ -1,4 +1,5 @@
-# welcome to ours project Space Traveler´s Hub
+# Welcome to Ours Project Space Traveler´s Hub
+# Using Reac & Redux
 
 <a name="readme-top"></a>
 
