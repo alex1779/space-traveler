@@ -73,7 +73,6 @@
 
 [Live demo](https://space-traveler-hp3t.onrender.com/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
